@@ -1,2 +1,2 @@
-# SINotify
-Notification worker
+# stunduizmainas-notify
+Notification script
